@@ -1,0 +1,4 @@
+C:\Users\juanc\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 1\Solution\MyTunes.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\juanc\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 1\Solution\MyTunes.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\juanc\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 1\Solution\MyTunes.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\juanc\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 1\Solution\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\juanc\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.csprojResolveAssemblyReference.cache
