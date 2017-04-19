@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using MyTunes.Shared;
+using Windows.ApplicationModel;
+using Windows.Storage;
 
 namespace MyTunes.UWP
 {
@@ -12,8 +14,7 @@ namespace MyTunes.UWP
     {
         public Stream GetStreamForFilename(string filename)
         {
-            return Windows.ApplicationModel.Package
-                .Current.InstalledLocation.GetFileAsync(filename)
+            return Package.Current.InstalledLocation.GetFileAsync(filename)
                 .AsTask().Result.OpenStreamForReadAsync().Result;
         }
     }

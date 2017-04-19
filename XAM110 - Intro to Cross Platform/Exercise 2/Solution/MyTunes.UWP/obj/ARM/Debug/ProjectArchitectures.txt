@@ -1,0 +1,2 @@
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\MyTunes.Shared.csproj;neutral
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.UWP\MyTunes.UWP.csproj;arm

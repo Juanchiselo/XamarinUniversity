@@ -301,15 +301,6 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "Newtonsoft.Json/8.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        }
-      },
       "System.AppContext/4.0.0": {
         "type": "package",
         "dependencies": {
@@ -2224,15 +2215,6 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "Newtonsoft.Json/8.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        }
-      },
       "System.AppContext/4.0.0": {
         "type": "package",
         "dependencies": {
@@ -3997,15 +3979,6 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "Newtonsoft.Json/8.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        }
-      },
       "System.AppContext/4.0.0": {
         "type": "package",
         "dependencies": {
@@ -5766,15 +5739,6 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
-        }
-      },
-      "Newtonsoft.Json/8.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -7541,15 +7505,6 @@
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "Newtonsoft.Json/8.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        }
-      },
       "System.AppContext/4.0.0": {
         "type": "package",
         "dependencies": {
@@ -9310,15 +9265,6 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
-        }
-      },
-      "Newtonsoft.Json/8.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -11083,15 +11029,6 @@
         },
         "runtime": {
           "lib/dotnet/Microsoft.Win32.Primitives.dll": {}
-        }
-      },
-      "Newtonsoft.Json/8.0.3": {
-        "type": "package",
-        "compile": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
-        },
-        "runtime": {
-          "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll": {}
         }
       },
       "System.AppContext/4.0.0": {
@@ -13240,28 +13177,6 @@
         "ref/net46/Microsoft.Win32.Primitives.dll",
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._"
-      ]
-    },
-    "Newtonsoft.Json/8.0.3": {
-      "sha512": "KGsYQdS2zLH+H8x2cZaSI7e+YZ4SFIbyy1YJQYl6GYBWjf5o4H1A68nxyq+WTyVSOJQ4GqS/DiPE+UseUizgMg==",
-      "type": "package",
-      "path": "newtonsoft.json/8.0.3",
-      "files": [
-        "lib/net20/Newtonsoft.Json.dll",
-        "lib/net20/Newtonsoft.Json.xml",
-        "lib/net35/Newtonsoft.Json.dll",
-        "lib/net35/Newtonsoft.Json.xml",
-        "lib/net40/Newtonsoft.Json.dll",
-        "lib/net40/Newtonsoft.Json.xml",
-        "lib/net45/Newtonsoft.Json.dll",
-        "lib/net45/Newtonsoft.Json.xml",
-        "lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll",
-        "lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml",
-        "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll",
-        "lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.xml",
-        "newtonsoft.json.8.0.3.nupkg.sha512",
-        "newtonsoft.json.nuspec",
-        "tools/install.ps1"
       ]
     },
     "System.AppContext/4.0.0": {
@@ -15880,8 +15795,7 @@
       "Microsoft.ApplicationInsights >= 1.0.0",
       "Microsoft.ApplicationInsights.PersistenceChannel >= 1.0.0",
       "Microsoft.ApplicationInsights.WindowsApps >= 1.0.0",
-      "Microsoft.NETCore.UniversalWindowsPlatform >= 5.0.0",
-      "Newtonsoft.Json >= 8.0.3"
+      "Microsoft.NETCore.UniversalWindowsPlatform >= 5.0.0"
     ],
     "UAP,Version=v10.0": []
   },
@@ -15890,16 +15804,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanc\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.UWP\\MyTunes.UWP.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.UWP\\MyTunes.UWP.csproj",
       "projectName": "MyTunes.UWP",
-      "projectPath": "C:\\Users\\juanc\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.UWP\\MyTunes.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\juanc\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.UWP\\project.json",
+      "projectPath": "D:\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.UWP\\MyTunes.UWP.csproj",
+      "projectJsonPath": "D:\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\juanc\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.Shared\\MyTunes.Shared.csproj": {
-              "projectPath": "C:\\Users\\juanc\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.Shared\\MyTunes.Shared.csproj"
+            "D:\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.Shared\\MyTunes.Shared.csproj": {
+              "projectPath": "D:\\Documents\\GitHub\\XamarinUniversity\\XAM110 - Intro to Cross Platform\\Exercise 2\\Solution\\MyTunes.Shared\\MyTunes.Shared.csproj"
             }
           }
         }
@@ -15909,8 +15823,7 @@
       "Microsoft.ApplicationInsights": "1.0.0",
       "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
       "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
-      "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
-      "Newtonsoft.Json": "8.0.3"
+      "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
     },
     "frameworks": {
       "uap10.0": {}

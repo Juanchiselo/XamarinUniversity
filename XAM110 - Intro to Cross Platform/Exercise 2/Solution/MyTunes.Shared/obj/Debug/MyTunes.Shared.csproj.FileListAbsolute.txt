@@ -1,1 +1,14 @@
 C:\Users\juanc\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\bin\Debug\MyTunes.Shared.pdb
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.pdb
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll.mdb
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll.mdb
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll.mdb
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll.mdb
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll.mdb
+D:\Documents\GitHub\XamarinUniversity\XAM110 - Intro to Cross Platform\Exercise 2\Solution\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll.mdb
